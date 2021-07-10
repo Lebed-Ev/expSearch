@@ -2,7 +2,7 @@ package Search;
 
 import java.util.Arrays;
 
-public class ex {
+public class Exp {
     public static void main(String[] args) {
         int[] array = new int[]{100, 15, 20, 45, 60, 85, 98, 12, 65, 43};
         System.out.println(Arrays.toString(array));
